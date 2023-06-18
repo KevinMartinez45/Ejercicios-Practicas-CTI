@@ -1,0 +1,1 @@
+let yourArray = ['nombre', 'apellido', 2, 'Coban', true]; // Cambia esta línea
